@@ -1,2 +1,2 @@
-def greeting (name)
+def say_hello (name)
   
